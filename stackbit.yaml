@@ -272,8 +272,9 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: vvvvvvv
         type: string
+        readOnly: true
   blog_feed_section:
     type: object
     label: Blog Feed Section
